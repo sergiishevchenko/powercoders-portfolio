@@ -5,14 +5,22 @@
 p {
 	font-size: 20px;
 	width: 60%;
+	margin-left: 25px;
 }
 
 h1 {
 	font-size: 65px;
+	margin-left: 25px;
 }
 
 h2 {
 	background-color: #607d8b;
 	color: #ffffff;
 	padding: 5px;
+	margin-left: 25px;
+}
+
+ul {
+	font-size: 20px;
+	margin-left: 25px;
 }
